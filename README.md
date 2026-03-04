@@ -14,3 +14,7 @@ This project implements a Retrieval-Augmented Generation (RAG) based document qu
 - Store embeddings in FAISS
 - Retrieve top relevant chunks
 - Generate answers using LLM
+
+- ## Demo Video
+Watch the demo of the Document Question Answering System here:
+https://drive.google.com/file/d/1IMTyP0bPycl-MyW9u-xOJHxef75ZswYr/view?usp=drive_link
